@@ -19,7 +19,7 @@ dependencyResolutionManagement {
 ```gradle
 dependencies {
   ...
-  implementation("com.github.tuanzhi2026:xpayment-android:ddcdb2c2a8") // 新增 xpayment
+  implementation("com.github.tuanzhi2026:xpayment-android:69a40271fe") // 新增 xpayment
 }
 ```
 
