@@ -2,7 +2,7 @@
 
 #### 使用方法
 
-> /settings.gradle.kts
+> ./settings.gradle.kts
 ```gradle
 dependencyResolutionManagement {
   ...
@@ -23,7 +23,7 @@ dependencies {
 }
 ```
 
-> ./app/src/main/java/com/paiopener/com/MainActivity.kt
+> ./app/src/main/java/com/example/paiopener/MainActivity.kt
 ```kotlin
 /// 示例代码
 package com.example.paiopener
